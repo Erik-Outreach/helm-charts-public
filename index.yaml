@@ -47,8 +47,8 @@ entries:
     name: mariadb
     type: application
     urls:
-    - https://raw.githubusercontent.com/Erik-Outreach/helm-charts-public/branch8/mariadb-0.4.5.tgz
-    version: 0.4.5
+    - https://raw.githubusercontent.com/Erik-Outreach/helm-charts-public/branch9/mariadb-0.4.6.tgz
+    version: 0.4.6
   rabbitmq:
   - apiVersion: v2
     appVersion: 3.8.18
